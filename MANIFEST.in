@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include lindila_farms *.css
+recursive-include lindila_farms *.csv
+recursive-include lindila_farms *.html
+recursive-include lindila_farms *.ico
+recursive-include lindila_farms *.js
+recursive-include lindila_farms *.json
+recursive-include lindila_farms *.md
+recursive-include lindila_farms *.png
+recursive-include lindila_farms *.py
+recursive-include lindila_farms *.svg
+recursive-include lindila_farms *.txt
+recursive-exclude lindila_farms *.pyc
