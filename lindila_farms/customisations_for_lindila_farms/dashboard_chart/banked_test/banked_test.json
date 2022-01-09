@@ -1,0 +1,31 @@
+{
+ "chart_name": "Banked Test",
+ "chart_type": "Report",
+ "creation": "2021-09-27 14:18:58.572671",
+ "docstatus": 0,
+ "doctype": "Dashboard Chart",
+ "dynamic_filters_json": "{}",
+ "filters_json": "{\"company\":\"Lindila Farms\",\"based_on\":\"Cost Center\",\"fiscal_year\":\"2021\",\"show_zero_values\":0,\"from_date\":\"2021-01-01\",\"to_date\":\"2021-12-31\"}",
+ "group_by_type": "Count",
+ "idx": 0,
+ "is_public": 0,
+ "is_standard": 1,
+ "modified": "2021-09-28 20:48:25.219566",
+ "modified_by": "support@thebantoo.com",
+ "module": "Customisations for Lindila Farms",
+ "name": "Banked Test",
+ "number_of_groups": 0,
+ "owner": "support@thebantoo.com",
+ "report_name": "Profitability Analysis",
+ "time_interval": "Yearly",
+ "timeseries": 0,
+ "timespan": "Last Year",
+ "type": "Percentage",
+ "use_report_chart": 0,
+ "x_field": "account",
+ "y_axis": [
+  {
+   "y_field": "gross_profit_loss"
+  }
+ ]
+}

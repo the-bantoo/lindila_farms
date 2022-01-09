@@ -1,0 +1,35 @@
+{
+ "based_on": "",
+ "chart_name": "Expected Income",
+ "chart_type": "Report",
+ "creation": "2021-10-02 19:38:35.051593",
+ "docstatus": 0,
+ "doctype": "Dashboard Chart",
+ "document_type": "GL Entry",
+ "dynamic_filters_json": "{}",
+ "filters_json": "{\"company\":\"Lindila Farms\",\"report_date\":\"2021-10-03\",\"ageing_based_on\":\"Due Date\",\"range1\":\"30\",\"range2\":\"60\",\"range3\":\"90\",\"range4\":\"120\"}",
+ "group_by_type": "Count",
+ "idx": 0,
+ "is_public": 0,
+ "is_standard": 1,
+ "modified": "2021-10-03 09:53:08.087999",
+ "modified_by": "support@thebantoo.com",
+ "module": "Customisations for Lindila Farms",
+ "name": "Expected Income",
+ "number_of_groups": 0,
+ "owner": "support@thebantoo.com",
+ "report_name": "Accounts Receivable Summary",
+ "source": "",
+ "time_interval": "Yearly",
+ "timeseries": 0,
+ "timespan": "Last Week",
+ "type": "Bar",
+ "use_report_chart": 0,
+ "value_based_on": "debit",
+ "x_field": "party",
+ "y_axis": [
+  {
+   "y_field": "outstanding"
+  }
+ ]
+}

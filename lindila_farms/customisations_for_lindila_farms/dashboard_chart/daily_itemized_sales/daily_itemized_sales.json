@@ -1,0 +1,37 @@
+{
+ "chart_name": "Daily Itemized sales",
+ "chart_type": "Report",
+ "creation": "2021-09-16 07:27:59.211205",
+ "docstatus": 0,
+ "doctype": "Dashboard Chart",
+ "dynamic_filters_json": "{}",
+ "filters_json": "{\"from_date\":\"2021-09-28\",\"to_date\":\"2021-10-28\",\"company\":\"Lindila Farms\"}",
+ "group_by_type": "Count",
+ "idx": 0,
+ "is_public": 0,
+ "is_standard": 1,
+ "modified": "2021-10-28 10:52:53.178943",
+ "modified_by": "support@thebantoo.com",
+ "module": "Customisations for Lindila Farms",
+ "name": "Daily Itemized sales",
+ "number_of_groups": 0,
+ "owner": "support@thebantoo.com",
+ "report_name": "Item-wise Sales Register",
+ "time_interval": "Yearly",
+ "timeseries": 0,
+ "timespan": "Last Year",
+ "type": "Bar",
+ "use_report_chart": 0,
+ "x_field": "item_name",
+ "y_axis": [
+  {
+   "y_field": "stock_qty"
+  },
+  {
+   "y_field": "rate"
+  },
+  {
+   "y_field": "amount"
+  }
+ ]
+}

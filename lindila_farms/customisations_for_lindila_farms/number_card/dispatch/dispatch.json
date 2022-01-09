@@ -1,0 +1,23 @@
+{
+ "aggregate_function_based_on": "base_grand_total",
+ "creation": "2021-09-15 19:45:17.199444",
+ "docstatus": 0,
+ "doctype": "Number Card",
+ "document_type": "Sales Invoice",
+ "dynamic_filters_json": "[]",
+ "filters_json": "[[\"Sales Invoice\",\"docstatus\",\"=\",\"1\",false],[\"Sales Invoice\",\"posting_date\",\"Timespan\",\"today\",false],[\"Sales Invoice\",\"set_warehouse\",\"=\",\"Mobile Sales - LF\",false]]",
+ "function": "Sum",
+ "idx": 0,
+ "is_public": 0,
+ "is_standard": 1,
+ "label": "Mobile Sales",
+ "modified": "2021-09-16 18:48:34.562494",
+ "modified_by": "support@thebantoo.com",
+ "module": "Customisations for Lindila Farms",
+ "name": "Dispatch",
+ "owner": "support@thebantoo.com",
+ "report_function": "Sum",
+ "show_percentage_stats": 1,
+ "stats_time_interval": "Daily",
+ "type": "Document Type"
+}
